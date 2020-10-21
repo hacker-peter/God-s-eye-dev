@@ -6,6 +6,8 @@ Wyobraź sobie narzędzie, przed którym nie da się ukryć. Informatyczne _Oko 
 
 # God's Eye
 
+![*sniffing*](https://sokoloowski.pl/assets/projekty/sniffer.gif)
+
 ## O projekcie
 
 To narzędzie pozwalające na monitorowanie bezprzewodowego ruchu sieciowego, a co za tym idzie, również śledzenie i identyfikację urządzeń oraz, z pewnym prawdopodobieństwem, ich właścicieli.
