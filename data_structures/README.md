@@ -1,1 +1,0 @@
-One day, here will be data_structures' code :)
