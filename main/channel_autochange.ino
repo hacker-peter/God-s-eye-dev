@@ -1,7 +1,6 @@
 #include <user_modules.h>
 int i=1;
-#define czas 140;
-#define maxchannel 13;
+
 void setup() {
   // put your setup code here, to run once:
   wifi.monitor.start ()
