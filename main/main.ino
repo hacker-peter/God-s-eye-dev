@@ -1,5 +1,6 @@
 #include <ESP8266WiFi.h>
 #include "./defines.h"
+#include <user_modules.h> //biblioteka używana prz
 
 void setup()
 {
